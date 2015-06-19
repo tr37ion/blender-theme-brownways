@@ -15,14 +15,14 @@ My most current Blender 3D UI theme **Brownways**.
 
 As some of us don't have color calibrated displays, the chosen color palette of **Brownways** might look too colorful with your display. Unfortunately, it took a while to find a good compromize of colors for this amber colored theme.
 
-If you experience a *too coloful* theme, you might reconsider your monitor's color saturation settings. From my experience, the chosen colors are working well, with those displays I could test it on.
+If you experience a *too colorful* theme, you might reconsider your monitor's color saturation settings. From my experience, the chosen colors are working well, with those displays I could test this theme with.
 
-In general, LED diplays tend to be very sensitive with orange and amber colored UIs. It's easier to design a blueish theme for LED displays. This is not a well known issue but you easily can test it yourself with this theme. The current LED technology isn't able to show a wide spectrum of brownish colors. Therefore, I recommend that you try to desaturate your display color settings. Even small changes can make the huge difference in **Brownways's** final finsh as desired.
+In general, LED diplays tend to be very sensitive with orange and amber colored UIs. It's easier to design a blueish theme for LED displays. This is not a well known issue but you easily can test it yourself with this theme.
 
-I tested **Borwnways** for the last weeks and I think it's ok to publish it now. Hopefully, you can enjoy this theme. Justknow **Brownways** is very color caliration fagile.
+The current LED technology isn't able to show a wide spectrum of brownish colors. Therefore, I recommend that you try to desaturate your display color settings first. Even tiny changes can make the huge difference in **Brownways's** appearance. **Brownways** is very color caliration fagile.
 
 ## Issues
 
-PLease report issues you find. as I couln't test all color settings. I will pick your issue reports as soon as possible.
+I tested **Borwnways** for the last weeks and I think it's color setup is ok for daily use. Feel free to report your issues. I will pick your issue reports as soon as possible. Hopefully, you can enjoy this theme.
 
 Now, have fun.
