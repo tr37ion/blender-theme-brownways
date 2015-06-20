@@ -3,6 +3,7 @@
 My most current Blender 3D UI theme **Brownways**.
 
 ![][snip]
+The font is: *Droid-Serif Regular*.
 
 ## Installation
 
@@ -29,4 +30,4 @@ I tested **Borwnways** for the last weeks and I think it's current colors are ok
 
 Now, have fun.
 
-[snip]:http://storage2.static.itmages.com/i/15/0620/h_1434761111_2803983_cf3bb50fde.png
+[snip]:http://storage4.static.itmages.com/i/15/0620/h_1434809247_5750521_a77ed78bee.png

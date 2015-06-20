@@ -16,7 +16,7 @@
                              item="#714b35ff"
                              text="#b97f5c"
                              text_sel="#ffae88"
-                             show_shaded="TRUE"
+                             show_shaded="FALSE"
                              shadetop="-18"
                              shadedown="5">
           </ThemeWidgetColors>
@@ -26,23 +26,23 @@
                              inner="#3d241dff"
                              inner_sel="#5a2b02ff"
                              item="#ff8500ff"
-                             text="#c06a31"
+                             text="#bb6d22"
                              text_sel="#ff8500"
                              show_shaded="TRUE"
-                             shadetop="-4"
-                             shadedown="-32">
+                             shadetop="-16"
+                             shadedown="-39">
           </ThemeWidgetColors>
         </wcol_tool>
         <wcol_radio>
           <ThemeWidgetColors outline="#0a0604"
-                             inner="#221410ff"
-                             inner_sel="#5a2b02ff"
+                             inner="#0a0604ff"
+                             inner_sel="#3d1e15ff"
                              item="#3d241dff"
-                             text="#a77353"
-                             text_sel="#c06a31"
+                             text="#b97f5c"
+                             text_sel="#ff8500"
                              show_shaded="TRUE"
-                             shadetop="-18"
-                             shadedown="-5">
+                             shadetop="-28"
+                             shadedown="10">
           </ThemeWidgetColors>
         </wcol_radio>
         <wcol_text>
@@ -50,7 +50,7 @@
                              inner="#221410ff"
                              inner_sel="#221410ff"
                              item="#714b35ff"
-                             text="#916647"
+                             text="#b97f5c"
                              text_sel="#ff8500"
                              show_shaded="TRUE"
                              shadetop="-18"
@@ -72,13 +72,13 @@
         <wcol_toggle>
           <ThemeWidgetColors outline="#0a0903"
                              inner="#0a0604ff"
-                             inner_sel="#5a2b02ff"
+                             inner_sel="#3d1e15ff"
                              item="#b97f5cff"
                              text="#b97f5c"
                              text_sel="#ff8500"
                              show_shaded="TRUE"
-                             shadetop="-17"
-                             shadedown="3">
+                             shadetop="-28"
+                             shadedown="10">
           </ThemeWidgetColors>
         </wcol_toggle>
         <wcol_num>
@@ -86,7 +86,7 @@
                              inner="#221410ff"
                              inner_sel="#221410ff"
                              item="#714b35ff"
-                             text="#916647"
+                             text="#b97f5c"
                              text_sel="#ff8500"
                              show_shaded="TRUE"
                              shadetop="-18"
@@ -96,19 +96,19 @@
         <wcol_numslider>
           <ThemeWidgetColors outline="#0a0903"
                              inner="#0a0903ff"
-                             inner_sel="#221410ff"
-                             item="#5a2b02ff"
-                             text="#bb6d22"
+                             inner_sel="#5a2b02ff"
+                             item="#3d241dff"
+                             text="#d0773f"
                              text_sel="#ff8500"
                              show_shaded="TRUE"
-                             shadetop="7"
-                             shadedown="-40">
+                             shadetop="-4"
+                             shadedown="-34">
           </ThemeWidgetColors>
         </wcol_numslider>
         <wcol_box>
           <ThemeWidgetColors outline="#0a0903"
                              inner="#312622ff"
-                             inner_sel="#3d241dff"
+                             inner_sel="#5a2b02ff"
                              item="#221410ff"
                              text="#b97f5c"
                              text_sel="#ffae88"
@@ -215,14 +215,14 @@
         </wcol_progress>
         <wcol_list_item>
           <ThemeWidgetColors outline="#0a0903"
-                             inner="#221410b2"
-                             inner_sel="#5e4230ff"
+                             inner="#221410a6"
+                             inner_sel="#ff850040"
                              item="#b97f5cff"
                              text="#b97f5c"
-                             text_sel="#ffae88"
+                             text_sel="#ffaf8a"
                              show_shaded="FALSE"
-                             shadetop="0"
-                             shadedown="1">
+                             shadetop="21"
+                             shadedown="-8">
           </ThemeWidgetColors>
         </wcol_list_item>
         <wcol_state>
@@ -310,7 +310,7 @@
                               header_text="#7a523f"
                               header_text_hi="#7a523f"
                               button="#2c2624ff"
-                              button_title="#ffae7e"
+                              button_title="#eba37b"
                               button_text="#c78967"
                               button_text_hi="#eba37b"
                               tab_active="#3b281e"
@@ -324,7 +324,7 @@
               </ThemeGradientColors>
             </gradients>
             <panelcolors>
-              <ThemePanelColors header="#ffb57e1a"
+              <ThemePanelColors header="#ffb57e2a"
                                 back="#c7896780"
                                 show_header="TRUE"
                                 show_back="FALSE">
@@ -1155,7 +1155,7 @@
     <widget_label>
       <ThemeFontStyle points="11"
                       font_kerning_style="FITTED"
-                      shadow="0"
+                      shadow="1"
                       shadow_offset_x="0"
                       shadow_offset_y="0"
                       shadow_alpha="0.8"
