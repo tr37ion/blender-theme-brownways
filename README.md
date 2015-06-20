@@ -25,7 +25,7 @@ The current LED technology isn't able to show a wide spectrum of brownish colors
 
 ## Issues
 
-I tested **Borwnways** for the last weeks and I think it's color setup is ok for daily use. Feel free to report your issues. I will pick your issue reports as soon as possible. Hopefully, you can enjoy this theme.
+I tested **Borwnways** for the last weeks and I think it's current colors are ok for daily use. Feel free to report your issues. I will pick them up as soon as possible. Hopefully, you can enjoy this theme.
 
 Now, have fun.
 
