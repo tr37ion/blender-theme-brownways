@@ -2,6 +2,8 @@
 
 My most current Blender 3D UI theme **Brownways**.
 
+![][snip]
+
 ## Installation
 
 1. get the **brownways.xml** file from above or
@@ -26,3 +28,5 @@ The current LED technology isn't able to show a wide spectrum of brownish colors
 I tested **Borwnways** for the last weeks and I think it's color setup is ok for daily use. Feel free to report your issues. I will pick your issue reports as soon as possible. Hopefully, you can enjoy this theme.
 
 Now, have fun.
+
+[snip]:http://storage2.static.itmages.com/i/15/0620/h_1434761111_2803983_cf3bb50fde.png
