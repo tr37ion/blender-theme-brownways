@@ -1,9 +1,9 @@
 # Blender Theme Brownways
 
-My most current Blender 3D UI theme **Brownways**.
+This Blender theme **Brownways** is mainly for dark/grey desktop environments.
 
 ![][snip]
-The font is: *Droid-Serif Regular*.
+The font is: *Roboto Medium*.
 
 ## Installation
 
@@ -30,4 +30,4 @@ I tested **Borwnways** for the last weeks and I think it's current colors are ok
 
 Now, have fun.
 
-[snip]:http://storage4.static.itmages.com/i/15/0620/h_1434809247_5750521_a77ed78bee.png
+[snip]:http://storage3.static.itmages.com/i/15/0620/h_1434811641_7052923_d8e9bf1f94.png
